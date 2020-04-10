@@ -13,7 +13,7 @@ class Config_Parser(object):
             i = 0
 
             for key, value in apps.items():
-                self.app_data.update({i: (key, value["Path"], value["exe"], value["URL_Path"])})
+                self.app_data.update({i: (key, value["Path"], value["exe"], value["URL_Path"], value["Base_Dir"])})
                 i += 1
             return self.app_data
 
