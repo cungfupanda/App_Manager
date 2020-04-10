@@ -1,0 +1,16 @@
+{
+        "applications": {
+            "Application 1": 
+                {
+                        "Path":"some/path/to/base/dir",
+                        "exe":"application.exe",
+                        "URL_Path":"URL/to/release"}
+            ,
+            "Some Other App": 
+                {
+                        "Path":"some/path/to/base/dir",
+                        "exe":"Second.cmd",
+                        "URL_Path":"URL/to/release2"}
+            
+        }
+    }

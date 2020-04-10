@@ -1,0 +1,15 @@
+{
+        "applications":[
+                {"Name": "Sample Application",
+                "Path": "/some/path/here",
+                "exe": "SomeApp.exe",
+                "FileRelease": "URL/to/file/release"
+                },
+                
+                {"Name": "Another Application",
+                "Path": "/some/path/here",
+                "exe": "SomeApp2.exe",
+                "FileRelease": "URL/to/file/release"
+                }
+        ]
+}
